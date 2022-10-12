@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(9,9): message : consider using '%zd' in the format string
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(10,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(11,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(16,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(16,9): message : consider using '%zd' in the format string
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(17,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(17,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(18,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(18,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(24,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+C:\Users\sanaz\source\repos\pointer_lesson2\pointer_lesson2\main.c(24,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'void *'
+  pointer_lesson2.vcxproj -> C:\Users\sanaz\source\repos\pointer_lesson2\x64\Debug\pointer_lesson2.exe
