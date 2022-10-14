@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\sanaz\source\repos\pointer-lesson10\pointer-lesson10\main.c(26,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[2][2]'
+C:\Users\sanaz\source\repos\pointer-lesson10\pointer-lesson10\main.c(26,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int (*)[2][2]'
+C:\Users\sanaz\source\repos\pointer-lesson10\pointer-lesson10\main.c(27,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[2]'
+C:\Users\sanaz\source\repos\pointer-lesson10\pointer-lesson10\main.c(27,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int (*)[2]'
+C:\Users\sanaz\source\repos\pointer-lesson10\pointer-lesson10\main.c(28,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[2]'
+C:\Users\sanaz\source\repos\pointer-lesson10\pointer-lesson10\main.c(28,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int (*)[2]'
+C:\Users\sanaz\source\repos\pointer-lesson10\pointer-lesson10\main.c(29,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[2]'
+C:\Users\sanaz\source\repos\pointer-lesson10\pointer-lesson10\main.c(29,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int (*)[2]'
+  pointer-lesson10.vcxproj -> C:\Users\sanaz\source\repos\pointer-lesson10\x64\Debug\pointer-lesson10.exe
