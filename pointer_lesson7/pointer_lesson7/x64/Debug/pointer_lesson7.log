@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\sanaz\source\repos\pointer_lesson7\pointer_lesson7\main.c(61,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sanaz\source\repos\pointer_lesson7\pointer_lesson7\main.c(61,9): message : consider using '%zd' in the format string
+C:\Users\sanaz\source\repos\pointer_lesson7\pointer_lesson7\main.c(64,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sanaz\source\repos\pointer_lesson7\pointer_lesson7\main.c(64,9): message : consider using '%zd' in the format string
+C:\Users\sanaz\source\repos\pointer_lesson7\pointer_lesson7\main.c(68,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sanaz\source\repos\pointer_lesson7\pointer_lesson7\main.c(68,9): message : consider using '%zd' in the format string
+C:\Users\sanaz\source\repos\pointer_lesson7\pointer_lesson7\main.c(59,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  pointer_lesson7.vcxproj -> C:\Users\sanaz\source\repos\pointer_lesson7\x64\Debug\pointer_lesson7.exe
