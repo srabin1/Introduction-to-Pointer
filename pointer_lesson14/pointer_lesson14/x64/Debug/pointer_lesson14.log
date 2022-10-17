@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\sanaz\source\repos\pointer_lesson14\pointer_lesson14\main.c(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int **'
+C:\Users\sanaz\source\repos\pointer_lesson14\pointer_lesson14\main.c(8,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int **'
+C:\Users\sanaz\source\repos\pointer_lesson14\pointer_lesson14\main.c(9,9): warning C4477: 'printf' : format string '% d' requires an argument of type 'int', but variadic argument 1 has type 'int **'
+C:\Users\sanaz\source\repos\pointer_lesson14\pointer_lesson14\main.c(9,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int **'
+C:\Users\sanaz\source\repos\pointer_lesson14\pointer_lesson14\main.c(33,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\sanaz\source\repos\pointer_lesson14\pointer_lesson14\main.c(33,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\sanaz\source\repos\pointer_lesson14\pointer_lesson14\main.c(18): warning C4172: returning address of local variable or temporary: z
+  pointer_lesson14.vcxproj -> C:\Users\sanaz\source\repos\pointer_lesson14\x64\Debug\pointer_lesson14.exe
