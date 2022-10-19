@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\sanaz\source\repos\pointer_lesson18\pointer_lesson18\main.c(17,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pointer_lesson18.vcxproj -> C:\Users\sanaz\source\repos\pointer_lesson18\x64\Debug\pointer_lesson18.exe
